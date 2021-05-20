@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "express-session": "^1.15.6",
+    "express-session": "^1.17.2",
     "hbs": "^4.0.1",
     "mysql2": "^2.1.0",
     "passport": "^0.4.0",
